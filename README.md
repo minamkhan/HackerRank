@@ -67,3 +67,18 @@ Staircase Problem: https://www.hackerrank.com/challenges/staircase/problem
 
 Staircase Solution: https://github.com/minamkhan/HackerRank/blob/master/Staircase/Solution
 
+Day 1: Interquartile Range Problem: https://www.hackerrank.com/challenges/s10-interquartile-range/problem
+ 
+Day 1: Interquartile Range Solution: https://github.com/minamkhan/HackerRank/blob/master/Day%201-%20Interquartile%20Range/Solution
+ 
+Day 1: Quartiles Problem: https://www.hackerrank.com/challenges/s10-quartiles/problem
+
+Day 1: Quartiles Solution: https://github.com/minamkhan/HackerRank/blob/master/Day%201-%20Quartiles%20Problem/Solution
+
+Day 0: Weighted Mean Problem: https://www.hackerrank.com/challenges/s10-weighted-mean/problem
+
+Day 0: Weighted Mean Solution: https://www.hackerrank.com/challenges/s10-weighted-mean/submissions/code/59505366
+
+Day 0: Mean, Median, and Mode Problem: https://www.hackerrank.com/challenges/s10-basic-statistics/problem
+
+Day 0: Mean, Median, and Mode Solution: https://www.hackerrank.com/challenges/s10-basic-statistics/submissions/code/59437255
