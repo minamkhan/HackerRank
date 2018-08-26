@@ -1,0 +1,39 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+import java.util.Arrays;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int m = in.nextInt();
+        int coins[] = new int[m];
+        for(int coins_i=0; coins_i < m; coins_i++){
+            coins[coins_i] = in.nextInt();
+        }
+        
+        System.out.println(countCombinations(n, coins));
+    }
+    
+    	
+	private static long countCombinations(int amount, int[] coins){
+		
+		long combination[] = new long[amount + 1];
+		
+		combination[0] = 1;
+		Arrays.stream(coins).forEach(coin->{
+			for(int i=0;i<combination.length;i++){
+				if(i>=coin){
+					combination[i] = combination[i] + combination[i-coin];
+				}
+			}
+		});
+		
+		return combination[amount];
+	}
+}
+
