@@ -19,6 +19,10 @@ Java Annotations Problem: https://www.hackerrank.com/challenges/java-annotations
 
 Java Annotations Solution: https://github.com/minamkhan/HackerRank/blob/master/Java%20Annotations/Solution
 
+Bit Manipulation: Lonely Integer Problem: https://www.hackerrank.com/challenges/ctci-lonely-integer/problem
+
+Bit Manipulation: Lonely Integer Solution: https://github.com/minamkhan/HackerRank/blob/master/Bit%20Manipulation-%20Lonely%20Integer/Solution
+
 
 
 
