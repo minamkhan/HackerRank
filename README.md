@@ -15,4 +15,8 @@ Sorting: Comparator Problem: https://www.hackerrank.com/challenges/ctci-comparat
 
 Sorting: Comparator Solution: https://github.com/minamkhan/HackerRank/blob/master/Sorting-%20Comparator/Solution
 
+Java Annotations Problem: https://www.hackerrank.com/challenges/java-annotations/problem
+
+
+
 
