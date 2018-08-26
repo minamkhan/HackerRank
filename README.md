@@ -6,3 +6,5 @@ Solve-Me-First Solution: https://github.com/minamkhan/HackerRank/blob/master/Sol
 Heaps: Find the Running Median Problem: https://www.hackerrank.com/challenges/ctci-find-the-running-median/problem
 
 Heaps: Find the Running Median Solution: https://github.com/minamkhan/HackerRank/blob/master/Heaps-%20Find%20the%20Running%20Median/Solution
+
+DP: Coin Change Problem: https://www.hackerrank.com/challenges/ctci-coin-change/problem
