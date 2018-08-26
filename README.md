@@ -12,3 +12,7 @@ DP: Coin Change Problem: https://www.hackerrank.com/challenges/ctci-coin-change/
 DP: Coin Change Solution: https://github.com/minamkhan/HackerRank/blob/master/DP-%20Coin%20Change/Solution
 
 Sorting: Comparator Problem: https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem
+
+Sorting: Comparator Solution: https://github.com/minamkhan/HackerRank/blob/master/Sorting-%20Comparator/Solution
+
+
