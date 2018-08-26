@@ -27,6 +27,9 @@ Strings: Making Anagrams Problem: https://www.hackerrank.com/challenges/ctci-mak
 
 Strings: Making Anagrams Solution: https://github.com/minamkhan/HackerRank/blob/master/Strings-%20Making%20Anagrams/Solution
 
+Queues: A Tale of Two Stacks Problem: https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem
+
+Queues: A Tale of Two Stacks Solution: https://github.com/minamkhan/HackerRank/blob/master/Queues-%20A%20Tale%20of%20Two%20Stacks/Solution
 
 
 
