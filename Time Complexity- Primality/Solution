@@ -1,0 +1,60 @@
+import java.util.Scanner;
+import java.util.stream.IntStream;
+
+public class Solution {
+
+    public static void main(String[] args) {
+  // TODO Auto-generated method stub
+		
+		/* Save input */
+		 Scanner scan = new Scanner(System.in);
+		 int size = scan.nextInt();		
+		 
+		 int [] array = new int[size];
+		 
+		 IntStream.range(0, size).forEach( i ->{
+			 array[i] = scan.nextInt();
+			 
+		 });
+		
+		 scan.close();
+		 
+		 IntStream.range(0, size).forEach(i->{
+			 
+			
+			 System.out.println(isPrime(array[i])==true?"Prime":"Not prime"); 
+			 
+		 });
+
+		
+	}
+
+	 
+	 private static boolean isPrime(int number) {
+		 boolean primeFlag = true;
+			if(number<=1) {
+				 primeFlag = false;
+			}else if(number==2) {
+				 primeFlag = true;
+			}else if(number%2==0) {
+				 //check if n is a multiple of 2
+				primeFlag = false;
+			}else if(number%3==0) {
+				 //check if n is a multiple of 2
+				primeFlag = false;
+			}else{
+				for(int i=3;i<(int)number/2;i=i+2) {
+					boolean isPrime = number%i==0;
+					if(isPrime) {
+						primeFlag = !isPrime;
+						break;
+					}
+					
+				}
+
+			 }
+			 
+			return primeFlag;
+	 }
+}
+
