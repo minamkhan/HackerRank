@@ -54,3 +54,8 @@ Diagonal Difference Solution: https://github.com/minamkhan/HackerRank/blob/maste
 Day 1: Standard Deviation Problem: https://www.hackerrank.com/challenges/s10-standard-deviation/problem
 
 Day 1: Standard Deviation Solution: https://github.com/minamkhan/HackerRank/blob/master/Day%201-%20Standard%20Deviation/Solution
+
+A Very Big Sum Problem: https://www.hackerrank.com/challenges/a-very-big-sum/problem
+
+A Very Big Sum Solution: https://github.com/minamkhan/HackerRank/blob/master/A%20Very%20Big%20Sum/Solution
+
