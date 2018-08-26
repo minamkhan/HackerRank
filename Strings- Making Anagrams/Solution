@@ -1,0 +1,45 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.IntStream;
+
+public class Solution {
+    private static final int LOWER_LETTERS_COUNT = 26; // We assume lower case letters only
+  
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        String a = in.next();
+        String b = in.next();
+        System.out.println(numberNeeded(a, b));
+    }
+    
+    	private static int numberNeeded(String a, String b){
+		
+		int[] arrayA = createArrayWithCharacterCount(a);
+		int[] arrayB = createArrayWithCharacterCount(b);
+		
+		AtomicInteger deletionNeeded = new AtomicInteger();
+		
+		IntStream.range(0, LOWER_LETTERS_COUNT)
+					.forEach(i->{
+						deletionNeeded.addAndGet(Math.abs(arrayA[i] - arrayB[i]));
+					});
+		return deletionNeeded.get();
+	}
+	
+	private static int[] createArrayWithCharacterCount(String str){
+		
+		int[] array = new int[LOWER_LETTERS_COUNT];
+		
+		IntStream.range(0,str.length())
+				.forEach( i ->{
+					char ch = str.charAt(i);
+					array[ch-'a']++;
+				});
+		return array;
+	}
+}
+
