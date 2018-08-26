@@ -10,3 +10,5 @@ Heaps: Find the Running Median Solution: https://github.com/minamkhan/HackerRank
 DP: Coin Change Problem: https://www.hackerrank.com/challenges/ctci-coin-change/problem
 
 DP: Coin Change Solution: https://github.com/minamkhan/HackerRank/blob/master/DP-%20Coin%20Change/Solution
+
+Sorting: Comparator Problem: https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem
