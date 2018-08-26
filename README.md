@@ -59,3 +59,11 @@ A Very Big Sum Problem: https://www.hackerrank.com/challenges/a-very-big-sum/pro
 
 A Very Big Sum Solution: https://github.com/minamkhan/HackerRank/blob/master/A%20Very%20Big%20Sum/Solution
 
+Plus Minus Problem: https://www.hackerrank.com/challenges/plus-minus/problem
+
+Plus Minus Solution: https://github.com/minamkhan/HackerRank/blob/master/Plus%20Minus/Solution
+
+Staircase Problem: https://www.hackerrank.com/challenges/staircase/problem
+
+Staircase Solution: https://github.com/minamkhan/HackerRank/blob/master/Staircase/Solution
+
