@@ -35,5 +35,8 @@ Recursion: Fibonacci Numbers Problem: https://www.hackerrank.com/challenges/ctci
 
 Recursion: Fibonacci Numbers Solution: https://github.com/minamkhan/HackerRank/blob/master/Recursion-%20Fibonacci%20Numbers/Solution
 
+Stacks: Balanced Brackets Problem: https://www.hackerrank.com/challenges/ctci-balanced-brackets/problem
+
+Stacks: Balanced Brackets Solution: https://github.com/minamkhan/HackerRank/blob/master/Stacks-%20Balanced%20Brackets/Solution
 
 
