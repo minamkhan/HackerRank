@@ -43,4 +43,8 @@ Time Complexity: Primality Problem: https://www.hackerrank.com/challenges/ctci-b
 
 Time Complexity: Primality Solution: https://github.com/minamkhan/HackerRank/blob/master/Time%20Complexity-%20Primality/Solution
 
+Simple Array Sum Problem: https://www.hackerrank.com/challenges/simple-array-sum/problem
+
+Simple Array Sum Solution: https://github.com/minamkhan/HackerRank/blob/master/Simple%20Array%20Sum/Solution
+
 
