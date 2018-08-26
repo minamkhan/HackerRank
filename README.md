@@ -47,4 +47,7 @@ Simple Array Sum Problem: https://www.hackerrank.com/challenges/simple-array-sum
 
 Simple Array Sum Solution: https://github.com/minamkhan/HackerRank/blob/master/Simple%20Array%20Sum/Solution
 
+Diagonal Difference Problem: https://www.hackerrank.com/challenges/diagonal-difference/problem
+
+Diagonal Difference Solution: https://github.com/minamkhan/HackerRank/blob/master/Diagonal%20Difference/Solution
 
