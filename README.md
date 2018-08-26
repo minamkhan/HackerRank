@@ -51,3 +51,6 @@ Diagonal Difference Problem: https://www.hackerrank.com/challenges/diagonal-diff
 
 Diagonal Difference Solution: https://github.com/minamkhan/HackerRank/blob/master/Diagonal%20Difference/Solution
 
+Day 1: Standard Deviation Problem: https://www.hackerrank.com/challenges/s10-standard-deviation/problem
+
+Day 1: Standard Deviation Solution: https://github.com/minamkhan/HackerRank/blob/master/Day%201-%20Standard%20Deviation/Solution
