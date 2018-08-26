@@ -1,0 +1,35 @@
+import java.util.Scanner;
+import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.IntStream;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        		/* Save input */
+		 Scanner scan = new Scanner(System.in);
+		 int size = scan.nextInt();
+		 int [][] array = new int[size][size];
+
+		 IntStream.range(0, size).forEach(i ->{
+			 IntStream.range(0,size).forEach(j->{
+				 array[i][j] = scan.nextInt();
+			 });
+		 });
+
+		
+		 scan.close();
+		 
+
+		 AtomicInteger diagonalDiff = new AtomicInteger();
+		 AtomicInteger sizeIndex = new AtomicInteger(size);
+		 
+		 IntStream.range(0, size).forEach(j->{
+								
+				diagonalDiff.addAndGet(array[j][j] - array[j][sizeIndex.decrementAndGet()]);
+			});
+		 
+		 System.out.println(Math.abs(diagonalDiff.get()));
+		 
+    }
+}
