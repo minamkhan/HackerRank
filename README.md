@@ -31,7 +31,9 @@ Queues: A Tale of Two Stacks Problem: https://www.hackerrank.com/challenges/ctci
 
 Queues: A Tale of Two Stacks Solution: https://github.com/minamkhan/HackerRank/blob/master/Queues-%20A%20Tale%20of%20Two%20Stacks/Solution
 
+Recursion: Fibonacci Numbers Problem: https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem
 
+Recursion: Fibonacci Numbers Solution: https://github.com/minamkhan/HackerRank/blob/master/Recursion-%20Fibonacci%20Numbers/Solution
 
 
 
