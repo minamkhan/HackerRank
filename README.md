@@ -17,6 +17,10 @@ Sorting: Comparator Solution: https://github.com/minamkhan/HackerRank/blob/maste
 
 Java Annotations Problem: https://www.hackerrank.com/challenges/java-annotations/problem
 
+Java Annotations Solution: https://github.com/minamkhan/HackerRank/blob/master/Java%20Annotations/Solution
+
+
+
 
 
 
