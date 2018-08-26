@@ -39,4 +39,8 @@ Stacks: Balanced Brackets Problem: https://www.hackerrank.com/challenges/ctci-ba
 
 Stacks: Balanced Brackets Solution: https://github.com/minamkhan/HackerRank/blob/master/Stacks-%20Balanced%20Brackets/Solution
 
+Time Complexity: Primality Problem: https://www.hackerrank.com/challenges/ctci-big-o/problem
+
+Time Complexity: Primality Solution: https://github.com/minamkhan/HackerRank/blob/master/Time%20Complexity-%20Primality/Solution
+
 
