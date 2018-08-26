@@ -23,6 +23,10 @@ Bit Manipulation: Lonely Integer Problem: https://www.hackerrank.com/challenges/
 
 Bit Manipulation: Lonely Integer Solution: https://github.com/minamkhan/HackerRank/blob/master/Bit%20Manipulation-%20Lonely%20Integer/Solution
 
+Strings: Making Anagrams Problem: https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
+
+Strings: Making Anagrams Solution: https://github.com/minamkhan/HackerRank/blob/master/Strings-%20Making%20Anagrams/Solution
+
 
 
 
